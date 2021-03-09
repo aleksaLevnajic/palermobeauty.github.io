@@ -1,0 +1,14 @@
+[
+    {
+        "id":"pizza",
+        "nazivKat":"Pizza"
+    },
+    {
+        "id":"salad",
+        "nazivKat":"Salad"
+    },
+    {
+        "id":"noodle",
+        "nazivKat":"Noodle"
+    }
+]

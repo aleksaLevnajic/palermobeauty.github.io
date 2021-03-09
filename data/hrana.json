@@ -1,0 +1,164 @@
+[
+    {
+    "naziv":"Asian Salad",
+    "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+    "slika": {
+        "src":"img/gallery/01.jpg",
+        "alt":"Asian salad"
+        },
+        "novaCena":45,
+        "kategorija":"Salad"      
+    },
+    {
+    "naziv":"American Pizza",
+    "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+    "slika": {
+        "src":"img/gallery/02.jpg",
+        "alt":"American Pizza"
+        },
+        "novaCena":65,
+        "kategorija":"Pizza"
+    },
+    {
+    "naziv":"Sinda Garlic Bread",
+    "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+    "slika": {
+        "src":"img/gallery/03.jpg",
+        "alt":"Sinda Garlic Bread"
+        },
+        "novaCena":30,
+        "kategorija":"Salad"
+    },
+    {
+    "naziv":"Cream De La Cesare",
+    "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+    "slika": {
+        "src":"img/gallery/04.jpg",
+        "alt":"Cream De La Cesare"
+        },
+        "novaCena":25.50,
+        "kategorija":"Noodle"
+    },
+    {
+    "naziv":"Veggie Pizza",
+    "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+    "slika": {
+        "src":"img/gallery/011.jpg",
+        "alt":"Noodl Soup"
+        },
+        "novaCena":80.50,
+        "kategorija":"Pizza"
+    },
+    {
+    "naziv":"Irish Breakfast",
+    "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+    "slika": {
+        "src":"img/gallery/06.jpg",
+        "alt":"Irish breakfast"
+        },
+        "novaCena":15.70,
+        "kategorija":"Noodle"
+    },
+    {
+    "naziv":"Tropicana Salad",
+    "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+    "slika": {
+            "src":"img/gallery/07.jpg",
+            "alt":"Tropicana Salad"
+            },
+            "novaCena":45.70,
+            "kategorija":"Salad"
+    },      
+    {
+    "naziv":"Noodle Plate",
+    "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+    "slika": {
+            "src":"img/gallery/08.jpg",
+            "alt":"Noodle Plate"
+            },
+        "novaCena":9.89,
+        "kategorija":"Noodle"
+    },
+    {
+        "naziv":"Tai Fe-Pizza",
+        "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+        "slika": {
+            "src":"img/gallery/09.jpg",
+            "alt":"Tai Fe-Pizza"
+            },
+            "novaCena":45,
+            "kategorija":"Pizza"      
+        },
+        {
+        "naziv":"Healthy Mix",
+        "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+        "slika": {
+            "src":"img/gallery/012.jpg",
+            "alt":"Healthy Mix"
+            },
+            "novaCena":65,
+            "kategorija":"Salad"
+        }, 
+        {
+            "naziv":"Pizza Plates",
+            "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+            "slika": {
+                "src":"img/gallery/010.jpg",
+                "alt":"Sinda Garlic Bread"
+                },
+                "novaCena":30,
+                "kategorija":"Pizza"
+            },
+            {
+            "naziv":"British Breakfast",
+            "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+            "slika": {
+                "src":"img/gallery/015.jpg",
+                "alt":"British Breakfast"
+                },
+                "novaCena":25.50,
+                "kategorija":"Noodle"
+            },
+            {
+            "naziv":"Tai Fe-Pizza",
+            "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+            "slika": {
+                "src":"img/gallery/09.jpg",
+                "alt":"Tai Fe-Pizza"
+                },
+                "novaCena":45,
+                "kategorija":"Pizza"      
+            },
+            {
+            "naziv":"Healthy Mix",
+            "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+            "slika": {
+                "src":"img/gallery/012.jpg",
+                "alt":"Healthy Mix"
+                },
+                "novaCena":65,
+                "kategorija":"Salad"
+            }, 
+            {
+                "naziv":"Pizza Plates",
+                "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+                "slika": {
+                    "src":"img/gallery/010.jpg",
+                    "alt":"Sinda Garlic Bread"
+                    },
+                    "novaCena":30,
+                    "kategorija":"Pizza"
+                },
+                {
+                "naziv":"British Breakfast",
+                "opis":"Tutu pizza la america consectetur metus. Ut sit amet tellus accumsan",
+                "slika": {
+                    "src":"img/gallery/015.jpg",
+                    "alt":"British Breakfast"
+                    },
+                    "novaCena":25.50,
+                    "kategorija":"Noodle"
+                }          
+
+    
+]

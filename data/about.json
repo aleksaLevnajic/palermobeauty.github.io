@@ -1,0 +1,38 @@
+[
+    {
+        "imeRadnika":"Jenifer Softa",
+        "pozicija":"Founder and CEO",
+        "kratakOpis":"Vivamus cursus leo nec sem feugiat sagittis. Duis ut feugiat odio, sit amet accumsan odio.",
+        "slika":{
+            "src":"img/about-01.jpg",
+            "alt":"Picture Jenifer CEO"
+        }
+    },
+    {
+        "imeRadnika":"Daisy Walker",
+        "pozicija":"Executive Chef",
+        "kratakOpis":"Praesent non vulputate elit. Orci varius natoque et magnis dis parturient, nascetur ridiculus mus.",
+        "slika":{
+            "src":"img/about-02.jpg",
+            "alt":"Picture Daisy Executive Chef"
+        }
+    },
+    {
+        "imeRadnika":"Florence Nelson",
+        "pozicija":"Kitchen Manager",
+        "kratakOpis":"Aenean sapien sem, ultricies sed vulputate et, auctor vel mauris. Integer sit amet diam eget est facilisis lacinia vitae.",
+        "slika":{
+            "src":"img/about-03.jpg",
+            "alt":"Picture Florence Kitchen Manager"
+        }
+    },
+    {
+        "imeRadnika":"Valentina Martin",
+        "pozicija":"Culinary Director",
+        "kratakOpis":"Praesent non vulputate elit. Orci varius natoque penatibus et magnis montes, nascetur ridiculus mus.",
+        "slika":{
+            "src":"img/about-04.jpg",
+            "alt":"Picture Valentina Culinary Director"
+        }
+    }
+]
